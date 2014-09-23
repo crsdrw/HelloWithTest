@@ -1,5 +1,5 @@
-#include "Greeting.h"
 #include "Test.h"
+#include "Greeting.h"
 
 #include <iostream>
 
